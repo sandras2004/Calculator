@@ -1,19 +1,19 @@
-function sum(){
+function Sum(){
     var fnumber=parseInt(document.getElementById('num1').value)
     var snumber=parseInt(document.getElementById('num2').value)
     alert(fnumber+snumber)
 }
-function difference(){
+function Difference(){
     var fnumber=parseInt(document.getElementById('num1').value)
     var snumber=parseInt(document.getElementById('num2').value)
     alert(fnumber-snumber)
 }
-function multiplication(){
+function Multiplication(){
     var fnumber=parseInt(document.getElementById('num1').value)
     var snumber=parseInt(document.getElementById('num2').value)
     alert(fnumber*snumber)
 }
-function division(){
+function Division(){
     var fnumber=parseInt(document.getElementById('num1').value)
     var snumber=parseInt(document.getElementById('num2').value)
     alert(fnumber/snumber)
